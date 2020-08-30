@@ -11,7 +11,7 @@
             <td>Image</td>
             </tr></thead>
             <tr>
-              <td> Proffessor Tapley</td>
+              <td> Professor Tapley</td>
               <td><img pics/QZ/Tapley_Sheldon.jpg/></td></tr>   
             </table>
       
